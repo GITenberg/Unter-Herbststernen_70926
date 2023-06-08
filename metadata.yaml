@@ -1,0 +1,37 @@
+_repo: Unter-Herbststernen_70926
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hamsun, Knut
+    aliases:
+    - Gamsun, Knut
+    - Hamsund, Knut Pedersen
+    - Pedersen, Knut
+    - Thode, Knut
+    birthdate: 1859
+    deathdate: 1952
+    gutenberg_agent_id: '2376'
+    url: http://www.gutenberg.org/2009/agents/2376
+    wikipedia:
+    - https://no.wikipedia.org/wiki/Knut_Hamsun
+    - https://fi.wikipedia.org/wiki/Knut_Hamsun
+    - https://en.wikipedia.org/wiki/Knut_Hamsun
+description: ''
+gutenberg_issued: '2023-06-06'
+identifiers:
+  gutenberg: '70926'
+language: de
+pgterms:marc904: https://archive.org/details/unterherbststern00hams/page/n5
+pgterms:marc905: 20181016104643hamsun
+pgterms:marc906: '1922'
+pgterms:marc907: de
+production_note: Peter Becker and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aGermany :$bKurt Wolff Verlag, $c1922.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Unter Herbststernen
+url: http://www.gutenberg.org/ebooks/70926
